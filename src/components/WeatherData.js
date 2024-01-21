@@ -49,6 +49,7 @@ function WeatherData() {
           Submit
         </button>
         <input
+         className="search"
           type="text"
           placeholder="Enter a city"
           style={{ width: "100%" }}
