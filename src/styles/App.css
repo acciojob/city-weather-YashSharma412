@@ -1,1 +1,20 @@
+.App{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
 
+*{
+    margin: 0;
+}
+
+.weather{
+    width: 400px; 
+    height: 400px;      
+}
+
+#weather-icon {
+    font-size: 3em;
+    margin-top: 20px;
+  }
